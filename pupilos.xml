@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="prueba.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>  
+<alumnos>
+    <alumno>
+        <matricula>20040461</matricula>
+        <nombre>Irlanda</nombre>
+        <edad>34</edad>
+    </alumno>
+</alumnos>

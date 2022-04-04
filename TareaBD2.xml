@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TareaBD2.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+
+<facturas>
+    <factura numerofactura="1" fecha="2022-03-21" cliente="Lupita Rojas">
+        <producto codigo="1" descripcion="leche" cantidad="1" precio="30.50"/>
+        <producto codigo="2" descripcion="cereal" cantidad="2" precio="50"/>
+        <producto codigo="2" descripcion="arroz" cantidad="3" precio="40"/>
+    </factura>
+</facturas>
